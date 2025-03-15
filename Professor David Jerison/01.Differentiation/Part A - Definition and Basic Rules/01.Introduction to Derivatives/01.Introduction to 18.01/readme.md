@@ -72,20 +72,20 @@ $$
 - **Task**: Solve the geometry problem involving the tangent line to $y = \frac{1}{x}$.
   - **Problem**: Find the area of the triangle formed by the axes and the tangent line to $y = \frac{1}{x}$ at a point $(x_0, y_0)$.
   - **Steps**:
-    1. Find the equation of the tangent line using the derivative:
-       $$
+1. Find the equation of the tangent line using the derivative:
+$$
        y - y_0 = -\frac{1}{x_0^2} (x - x_0).
        $$
-    2. Find the $x$-intercept (set $y = 0$):
-       $$
+2. Find the $x$-intercept (set $y = 0$):
+$$
        x = 2x_0.
        $$
-    3. Find the $y$-intercept (set $x = 0$):
-       $$
+3. Find the $y$-intercept (set $x = 0$):
+$$
        y = 2y_0.
        $$
-    4. Compute the area of the triangle:
-       $$
+4. Compute the area of the triangle:
+$$
        \text{Area} = \frac{1}{2} \times \text{base} \times \text{height} = \frac{1}{2} \times 2x_0 \times 2y_0 = 2x_0 y_0 = 2.
        $$
   - **Conclusion**: The area is always 2, regardless of the point $(x_0, y_0)$.

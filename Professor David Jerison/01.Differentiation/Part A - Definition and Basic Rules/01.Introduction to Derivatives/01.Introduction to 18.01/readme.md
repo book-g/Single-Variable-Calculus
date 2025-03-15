@@ -1,24 +1,23 @@
-### **Welcome to 18.01**  
+### **Cue for Lecture on "What is a Derivative?"**  
 
-Welcome to **18.01**. Today, we begin **Unit One**, focusing on **differentiation**.  
+- **Introduction to Differentiation**  
+  - Overview of Unit One: Differentiation  
+  - Importance of derivatives in science, engineering, and real-world applications  
+  - Goal: Learn how to differentiate any function  
 
-#### **Overview of the Unit**  
-Over the next couple of weeks, we will explore:  
-✅ **What is a derivative?** – Understanding derivatives from multiple perspectives.  
-✅ **Geometric Interpretation** – Examining the derivative as the slope of a tangent line.  
-✅ **Physical Interpretation** – Connecting derivatives to real-world applications.  
-✅ **Importance of Derivatives** – Their role in science, engineering, economics, and beyond.  
-✅ **Differentiation Techniques** – Learning how to differentiate any function.  
+- **Defining the Derivative**  
+  - **Geometric Interpretation**: Tangent line to a curve  
+  - **Physical Interpretation**: Rate of change (e.g., velocity as the derivative of position)  
 
-By the end of this unit, you will be able to compute derivatives of functions such as:  
+- **Significance of Calculus**  
+  - Fundamental role in various disciplines  
+  - Applications in science, economics, and engineering  
 
-$$f(x) = x \cdot \arctan(x) \quad \text{and} \quad f(x) = e^x$$  
+- **Differentiation Techniques**  
+  - Rules of differentiation  
+  - Example: Computing the derivative of $f(x) = x \cdot \arctan(x)$  
+  - Mastery of differentiation by the end of the unit  
 
-Let’s begin! 🚀  
-
----  
-
-📌 **MIT OpenCourseWare**  
-🔗 [MIT OCW – 18.01SC Single Variable Calculus](http://ocw.mit.edu)  
-📅 **Fall 2010**  
-📜 For citation and terms of use: [MIT OCW Terms](http://ocw.mit.edu/terms)  
+- **Conclusion**  
+  - Preview of upcoming concepts  
+  - Encouragement to explore applications of derivatives

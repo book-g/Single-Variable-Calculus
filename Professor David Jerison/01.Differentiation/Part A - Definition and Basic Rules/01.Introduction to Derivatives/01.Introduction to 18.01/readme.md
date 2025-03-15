@@ -3,7 +3,9 @@ This lecture introduces the concept of derivatives in calculus, focusing on thei
 ---
 
 ### **1. Introduction to Derivatives**
+
 - **Task**: Understand what a derivative is.
+  
   - **Definition**: The derivative of a function $f(x)$ at a point $x_0$, denoted $f'(x_0)$, represents the slope of the tangent line to the curve $y = f(x)$ at the point $(x_0, f(x_0))$.
   - **Geometric Interpretation**: The tangent line is the limit of secant lines as the second point on the curve approaches the point of tangency.
   - **Physical Interpretation**: Derivatives also represent rates of change, such as velocity in physics or growth rates in economics.
@@ -11,6 +13,7 @@ This lecture introduces the concept of derivatives in calculus, focusing on thei
 ---
 
 ### **2. Notation for Derivatives**
+
 - **Task**: Familiarize yourself with the different notations for derivatives.
   - **Newton's Notation**: $f'(x)$ or $y'$.
   - **Leibniz's Notation**: $\frac{df}{dx}$ or $\frac{dy}{dx}$.
@@ -19,7 +22,9 @@ This lecture introduces the concept of derivatives in calculus, focusing on thei
 ---
 
 ### **3. Calculating Derivatives**
+
 - **Task**: Learn how to compute derivatives using the limit definition.
+  
   - The derivative is computed using the limit of the difference quotient:
     
 $$
@@ -31,7 +36,9 @@ $$
 ---
 
 ### **4. Example 1: Derivative of $f(x) = \frac{1}{x}$**
+
 - **Task**: Work through the calculation of the derivative of $f(x) = \frac{1}{x}$.
+  
   - Step 1: Write the difference quotient:
     
 $$
@@ -55,7 +62,9 @@ $$
 ---
 
 ### **5. Example 2: Derivative of $f(x) = x^n$**
+
 - **Task**: Derive the power rule for derivatives.
+  
   - Step 1: Write the difference quotient:
   
 $$
@@ -85,8 +94,11 @@ $$
 ---
 
 ### **6. Word Problem: Tangent Line and Area**
+
 - **Task**: Solve the geometry problem involving the tangent line to $y = \frac{1}{x}$.
+  
   - **Problem**: Find the area of the triangle formed by the axes and the tangent line to $y = \frac{1}{x}$ at a point $(x_0, y_0)$.
+  
   - **Steps**:
     1. Find the equation of the tangent line using the derivative:
     

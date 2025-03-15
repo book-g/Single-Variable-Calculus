@@ -11,9 +11,8 @@ Over the next couple of weeks, we will explore:
 ✅ **Differentiation Techniques** – Learning how to differentiate any function.  
 
 By the end of this unit, you will be able to compute derivatives of functions such as:  
-$$
-f(x) = x \cdot \arctan(x) \quad \text{and} \quad f(x) = e^x
-$$  
+
+$$f(x) = x \cdot \arctan(x) \quad \text{and} \quad f(x) = e^x$$  
 
 Let’s begin! 🚀  
 
